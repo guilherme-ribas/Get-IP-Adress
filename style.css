@@ -1,0 +1,46 @@
+h1 {
+	margin: 20px;
+	padding: 20px;
+}
+
+span {
+	color: white;
+}
+
+h3 {
+	display: none;
+}
+
+button {
+	padding: 15px;
+	font-size: 15px;
+	background: #967ECB;
+	border: 2px solid #3B1D98;
+	border-radius: 10px;
+	transition-duration: 0.3s;
+}
+
+button:hover {
+	cursor: pointer;
+	background: #513779;
+	color: white;
+	border: 3px solid white;
+}
+
+
+html { 
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	background: #220B5E;
+	margin: 0;
+}
+
+.container {
+	min-height: 100%;
+	background: #513779;
+	text-align: center;
+	margin: 0 20%;
+}
